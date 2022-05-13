@@ -4,10 +4,12 @@ The operational speed of a wiper is controlled by a wiper speed control system i
 .
 
 SOFTWARE REQUIREMENTS
+
 STM32 CUBE IDE
 
 
 COMPONENTS
+
 STM32F4O7VG MICROCONTROLLER BOARD
 
 
