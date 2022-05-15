@@ -5,3 +5,5 @@
 [![Build-Linux](https://github.com/M-Anuradha9/M3_Control_of_wiper_system/actions/workflows/Build%20On%20Linux.yml/badge.svg)](https://github.com/M-Anuradha9/M3_Control_of_wiper_system/actions/workflows/Build%20On%20Linux.yml)
 # Code Quality Score
 https://api.codiga.io/project/33530/score/svg
+# Code Grade
+https://api.codiga.io/project/33530/status/svg
